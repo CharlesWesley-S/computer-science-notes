@@ -14,13 +14,13 @@
 | 模块 | 内容简介 | 入口 |
 |------|-----------|------|
 | 🧱 **基础编程** | C / Java / Python 基础语法与编程思想，侧重清晰的逻辑与直觉解释 | [进入目录](./中文/基础编程/目录指引.md) |
-| 🧠 **算法与数据结构** | 经典算法思路、实现、复杂度分析，配有可视化与生活类比 | [进入目录](./中文/算法与数据结构) |
-| ⚙️ **操作系统与硬件** | 计算机组成、操作系统原理、ARM 架构、底层运行机制拆解 | [进入目录](./中文/操作系统与硬件) |
-| 🌐 **计算机网络** | TCP/IP 协议、HTTP、路由机制、网络编程与安全基础 | [进入目录](./中文/计算机网络) |
-| 🧮 **数学与逻辑** | 计算机所依托的数学直觉：集合、逻辑、概率、线性代数等 | [进入目录](./中文/数学与逻辑) |
-| 📑 **数据库**  | 计算机的数据库 | [进入目录](./中文/数据库)|
-| 🔐 **网络安全** | 加密基础、常见攻击思路、安全协议与实际案例分析与网络安全的攻防技巧 | [进入目录](./中文/网络安全) |
-| 🧪 **量子计算** | 量子计算机的基本思想、复杂性问题、未来计算架构 | [进入目录](./中文/量子计算与前沿/) |
+| 🧠 **算法与数据结构** | 经典算法思路、实现、复杂度分析，配有可视化与生活类比 | [进入目录](./中文/算法与数据结构/目录指引.md) |
+| ⚙️ **操作系统与硬件** | 计算机组成、操作系统原理、ARM 架构、底层运行机制拆解 | [进入目录](./中文/操作系统与硬件/目录指引.md) |
+| 🌐 **计算机网络** | TCP/IP 协议、HTTP、路由机制、网络编程与安全基础 | [进入目录](./中文/计算机网络/目录指引.md) |
+| 🧮 **数学与逻辑** | 计算机所依托的数学直觉：集合、逻辑、概率、线性代数等 | [进入目录](./中文/数学与逻辑/目录指引.md) |
+| 📑 **数据库**  | 计算机的数据库 | [进入目录](./中文/数据库/目录指引.md)|
+| 🔐 **网络安全** | 加密基础、常见攻击思路、安全协议与实际案例分析与网络安全的攻防技巧 | [进入目录](./中文/网络安全/目录指引.md) |
+| 🧪 **量子计算** | 量子计算机的基本思想、复杂性问题、未来计算架构 | [进入目录](./中文/量子计算与前沿/目录指引.md) |
 
 ---
 ### 注明
@@ -48,14 +48,14 @@ I hope it's more than just a pile of notes, but rather a clearly structured, log
 
 | Module | Content Introduction | Entry Point |
 |------|-----------|------|
-| 🧱 **Basic Programming** | Basic syntax and programming concepts in C/Java/Python, with an emphasis on clear logic and intuitive explanations | [Go to Table of Contents](./English/basic%20peogramming) |
-| 🧠 **Algorithms and Data Structures** | Classic algorithm concepts, implementation, and complexity analysis, with visualizations and real-life analogies | [Go to Table of Contents](./English/Algorithms%20and%20Data%20Structures) |
-| ⚙️ **Operating Systems and Hardware** | Computer organization, operating system principles, ARM architecture, and low-level operating mechanism analysis | [Go to Table of Contents](./English/Operating%20Systems%20and%20Hardware) |
-| 🌐 **Computer Networks** | TCP/IP protocols, HTTP, routing mechanisms, network programming, and security fundamentals | [Go to Table of Contents](./English/Computer%20Networks) |
-| 🧮 **Mathematics and Logic** | The mathematical intuition underlying computers: sets, logic, probability, linear algebra, etc. | [Enter Table of Contents](./English/Mathematics%20and%20Logic) |
-| 📑 **Database** | Computer Databases | [Enter Table of Contents](./English/Database)|
-| 🔐 **Cybersecurity** | Cryptography Basics, Common Attack Strategies, Security Protocols and Practical Case Analysis, and Network Security Attack and Defense Techniques | [Enter Table of Contents](./English/Cybersecurity) |
-| 🧪 **Quantum Computing** | Basic Concepts of Quantum Computers, Complexity Issues, and Future Computing Architectures | [Enter Table of Contents](./English/Quantum%20Computing) |
+| 🧱 **Basic Programming** | Basic syntax and programming concepts in C/Java/Python, with an emphasis on clear logic and intuitive explanations | [Go to Table of Contents](./English/basic%20peogramming/Guide.md) |
+| 🧠 **Algorithms and Data Structures** | Classic algorithm concepts, implementation, and complexity analysis, with visualizations and real-life analogies | [Go to Table of Contents](./English/Algorithms%20and%20Data%20Structures/Guide.md) |
+| ⚙️ **Operating Systems and Hardware** | Computer organization, operating system principles, ARM architecture, and low-level operating mechanism analysis | [Go to Table of Contents](./English/Operating%20Systems%20and%20Hardware/Guide.md) |
+| 🌐 **Computer Networks** | TCP/IP protocols, HTTP, routing mechanisms, network programming, and security fundamentals | [Go to Table of Contents](./English/Computer%20Networks/Guide.md) |
+| 🧮 **Mathematics and Logic** | The mathematical intuition underlying computers: sets, logic, probability, linear algebra, etc. | [Enter Table of Contents](./English/Mathematics%20and%20Logic/Guide.md) |
+| 📑 **Database** | Computer Databases | [Enter Table of Contents](./English/Database/Guide.md)|
+| 🔐 **Cybersecurity** | Cryptography Basics, Common Attack Strategies, Security Protocols and Practical Case Analysis, and Network Security Attack and Defense Techniques | [Enter Table of Contents](./English/Cybersecurity/Guide.md) |
+| 🧪 **Quantum Computing** | Basic Concepts of Quantum Computers, Complexity Issues, and Future Computing Architectures | [Enter Table of Contents](./English/Quantum%20Computing/Guide.md) |
 ---
 ### Note
 
