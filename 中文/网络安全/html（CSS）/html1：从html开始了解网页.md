@@ -11,16 +11,25 @@ HTML是一种标记语言，用于创建，设计网页及其内容。它通过�
 这里的话需要注意，html的运行方式与python很不一样，因为python属于后端，html属于前端，这个是啥意思呢，前端就是指你可以看到的网页。所以说vscode无法像浏览器一样解析这一段代码，给你一个网页，所以运行与python很不一样。运行的步骤第一步：保存你的代码，第二步：找到这个编程所对应的文件，第三步：用浏览器打开。
 ```html
 <html>
-<body>
-<h1>Charles Wesley</h1>
-<h2>Charles Wesley</h2>
-<h3>Charles Wesley</h3>
-<h4>Charles Wesley</h4>
-<h5>Charles Wesley</h5>
-<h6>Charles Wesley</h6>
-</body>
+
+    <body>
+        <h1>Charles Wesley</h1>
+        <h2>github</h2>
+        <h3>一些项目</h3>
+        <h4>computer-science-notes</h4>
+        <h5>前端</h5>
+        <h6>html</h6>
+        
+    </body>
+
 </html>
 ```
-这里首先需要写`<html>`，这个表示这段代码表示的是html的语言，注意不要忘记`</html>` （但是这个vscode中会自动显示）body很简单的意思，就是网页的主题，那么接下来就是标题`<h1> ---<h6>`，可以来看一下他们的区别
+这里首先需要写`<html>`，这个表示这段代码表示的是html的语言，注意不要忘记`</html>` （但是这个vscode中会自动显示）
+这里h1，h2等等都需要成双成对的出现，来看看大小
+
+<img src = "image.png" weight="300", height="300" \>
+
+
+
 
 
