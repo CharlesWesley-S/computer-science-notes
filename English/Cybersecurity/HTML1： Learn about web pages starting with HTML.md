@@ -80,7 +80,7 @@ The English word for paragraph is "paragraph," so in HTML the tag is <p>. Be car
 <html>
     <body>
         <h1>Charles Wesley</h1>
-        <p>github，CSDN，知乎等等都有文章更新</p>
+        <p>update blog on Medium github</p>
         <hr>
         <h2>github</h2>
         <hr>
@@ -94,7 +94,7 @@ The English word for paragraph is "paragraph," so in HTML the tag is <p>. Be car
 </html>
 ```
 
-![alt text](image-3.png)
+![alt text](image-5.png)
 
 Below the main title, I added a line about myself.
 
@@ -108,7 +108,7 @@ If you need to wrap a paragraph and don't want each line to be too long and unsi
     <body>
         <title>Charles Wesley</title>
         <h1>Charles Wesley</h1>
-        <p>update blog on<br>CSDN<br>github</p>
+        <p>update blog on<br>Medium<br>github</p>
         <hr>
         <h2>github</h2>
         <hr>
@@ -121,5 +121,5 @@ If you need to wrap a paragraph and don't want each line to be too long and unsi
 
 </html>
 ```
-![alt text](image-4.png) CSDN and GitHub have wrapped lines, this is the purpose of `<br>`.
+![alt text](image-6.png) CSDN and GitHub have wrapped lines, this is the purpose of `<br>`.
 
