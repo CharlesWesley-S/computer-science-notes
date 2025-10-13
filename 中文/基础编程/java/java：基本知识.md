@@ -273,10 +273,11 @@ public class CharInput {
     }
 } 
 ```
-`char inputChar = scanner.next().charAt(0);  // 读取用户输入的第一个字符 `
+`char inputChar = scanner.next().charAt(0);  // 读取用户输入的第一个字符 `在`charAt(0)`中式第一个字母，为什么式第一个字母，是因为在中间的零，叫做索引，索引从零开始 apple（01234）如果写4，那么最后的结果就是e。
 
 输出是这样的
 ![alt text](image-5.png)
+
 
 当然如果你输入的是一个字母 也是可以的
 ![alt text](image-6.png)

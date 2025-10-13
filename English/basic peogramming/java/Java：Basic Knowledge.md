@@ -33,7 +33,7 @@ public class Price {
 ```
 There are three variables here: price, a double variable with a value of 10.0; number, an int variable with a value of 30; and total, a double variable, which needs to be calculated using price * number.
 
-## 1.1. Output
+## 1.2 Output
 
 Then there's System.out.println(). The System (system), out (output), and print (print) functions essentially mean system output. The ln (line feed) stands for line break, meaning the next item is printed on the next line.
 So, in Java, we typically use System.out.println() for output.
@@ -64,14 +64,14 @@ The output is
 
 Because the first statement doesn't use println, the second one doesn't wrap, resulting in this.
 
-## 1.2. Variable Names
+## 1.3 Variable Names
 Let's explain each one one by one. First, what are the special requirements for variable names?
 1. Letters, Numbers, and Underscores: Variable names can consist of letters (A-Z, a-z), numbers (0-9), and underscores (_), but must begin with a letter or underscore. For example, age, _count, and userName1 are all legal variable names, while 1user and @name are not.
 2. Case Sensitivity: Java is case-sensitive, so age and Age are two different variable names.
 3. No Keywords: Java keywords (such as int, class, and public) cannot be used in variable names, as these keywords have special meanings.
 4. Naming Conventions: To improve code readability, camelCase is generally used, meaning the first word in a variable name is lowercase, and the first letter of subsequent words is capitalized. For example, firstName, totalAmount, totalStudentNumber.
 
-## 1.3. Variable Types
+## 1.4 Variable Types
 The variable types frequently mentioned in 1 (the room types mentioned earlier), such as int and double, are now listed here.
 
 int: Integer
@@ -115,8 +115,8 @@ public class Price {
 ![alt text](image-1.png)
 
 This is the output of the code above.
-## 1.4 Arithmetic Operators
-### 1.4.1 General Arithmetic Operators
+## 1.5 Arithmetic Operators
+### 1.5.1 General Arithmetic Operators
 
 Addition: +
 Subtraction: -
@@ -124,7 +124,7 @@ Multiplication: *
 Division: /. This division operation returns the value after the division, regardless of the value following it.
 Mod: %, this operation returns the remainder.
 
-### 1.4.2 Special arithmetic operators (++, --)
+### 1.5.2 Special arithmetic operators (++, --)
 ```java
 public class c3 {
 	public static void main(String[] args) {
@@ -282,4 +282,12 @@ public class CharInput {
 } 
 ```
 ![alt text](image-4.png)
+
+`char inputChar = scanner.next().charAt(0);  `In `charAt(0)`, we write the first letter. Why is it the first letter? Because the zero in the middle is called the index. The index starts at zero. If we write 4 in apple (01234), the final result will be e.
+
+
+The output is this
+![alt text](image-5.png)
+
+
 

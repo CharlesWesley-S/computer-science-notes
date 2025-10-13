@@ -54,7 +54,9 @@ HTML是一种标记语言，用于创建，设计网页及其内容。它通过�
 头部指的是标签页上打开的名称，像是下面的 ![alt text](image-1.png)，在网页中如何实现呢，使用`<title></title>`这就是头部的意思，并且需要成双成对的出现。
 ```html
 <html>
-    <title>Charles Wesley</title>
+    <head>
+        <title>Charles Wesley</title>
+    </head>
 
     <body>
         <h1>Charles Wesley</h1>
@@ -76,8 +78,6 @@ HTML是一种标记语言，用于创建，设计网页及其内容。它通过�
 段落的英文是paragraph，所以说在html的标签是<p>，注意不要忘记它的“兄弟”</p>（需要双向）
 ```html
 <html>
-    <title>Charles Wesley</title>
-
     <body>
         <h1>Charles Wesley</h1>
         <p>github，CSDN，知乎等等都有文章更新</p>
@@ -100,9 +100,12 @@ HTML是一种标记语言，用于创建，设计网页及其内容。它通过�
 如果在写段落的时候，想要换行，不希望把段落的每一行写得很长，也不好看，我么可以使用`<br>`来进行分段，它和`<hr>`一样比较另类，没有“兄弟”，单独出现。
 ```html
 <html>
-    <title>Charles Wesley</title>
+    <head>
+        <title>Charles Wesley</title>
+    </head>
 
     <body>
+        <title>Charles Wesley</title>
         <h1>Charles Wesley</h1>
         <p>在<br>CSDN<br>github更新博客</p>
         <hr>
