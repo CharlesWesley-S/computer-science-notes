@@ -24,8 +24,8 @@ It's important to note that HTML code runs very differently from Python, Java, a
 
 </html>
 ```
-这里首先需要写`<html>`，这个表示这段代码表示的是html的语言，注意不要忘记`</html>` （但是这个vscode中会自动显示）
-这里h1，h2等等都需要成双成对的出现。
+First, you need to write `<html>`, which indicates that the code is in HTML. Remember to include the `</html>` (this will appear automatically in VS Code).
+Here, `h1`, `h2`, and so on, all need to appear in pairs.
 
 ![alt text](image-1.png)
 
