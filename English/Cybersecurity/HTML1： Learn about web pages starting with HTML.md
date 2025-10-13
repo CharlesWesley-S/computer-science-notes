@@ -1,4 +1,4 @@
-HTML1: Understanding Webpages with HTML
+# HTML1: Understanding Webpages with HTML
 
 ## 1.1 Introduction to HTML
 HTML is a markup language used to create and design web pages and their content. It uses tags and labels to define the structure and elements of a webpage, such as headings, paragraphs, links, and images. HTML files are typically saved with the `.html` extension and rendered by browsers, presenting them to users as the webpages we see today. HTML often contains elements like `<h1>`, which we call tags. It's important to note that tags often appear in pairs, for example, `<h1> `  ` </h1>`
