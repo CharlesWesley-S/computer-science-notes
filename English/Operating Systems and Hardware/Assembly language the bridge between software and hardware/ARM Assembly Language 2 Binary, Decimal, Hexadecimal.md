@@ -83,13 +83,12 @@ First, let's do 32.
 This is (20)16 (still write from the bottom to the top)
 
 ## 2.2.5 Hexadecimal to Binary
-This hasn't been covered before, so we'll cover it in detail.
 
 (2A3) 16 to binary. We don't have a clue how to solve this problem, but we know how to convert hexadecimal to decimal and decimal to binary, so that's it. First, we convert hexadecimal to decimal, then use the decimal to convert to binary. Our method is to convert hexadecimal to decimal and then use the decimal to convert to binary.
 
 (2A3) 16 = 2*16**2 + 10*16**1 + 3*16**0 = 512 + 160 + 3 = 675
 
-Then use 675 to convert to binary. This process is a bit lengthy, so I'll skip it. Feel free to try it. The answer is 10101. 00011
+Then use 675 to convert to binary. This process is a bit lengthy, so I'll skip it. Feel free to try it. The answer is 1010100011
 
 This approach uses typical science-based thinking, converting what you don't know into what you know to solve the problem. However, this approach is very complex and rarely used in general conversions.
 
