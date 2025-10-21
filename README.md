@@ -48,7 +48,7 @@ I hope it's more than just a pile of notes, but rather a clearly structured, log
 
 | Module | Content Introduction | Entry Point |
 |------|-----------|------|
-| 🧱 **Basic Programming** | Basic syntax and programming concepts in C/Java/Python, with an emphasis on clear logic and intuitive explanations | [Go to Table of Contents](./English/basic%20peogramming/Guide.md) |
+| 🧱 **Basic Programming** | Basic syntax and programming concepts in C/Java/Python, with an emphasis on clear logic and intuitive explanations | [Go to Table of Contents](./English/basic%20programming/Guide.md) |
 | 🧠 **Algorithms and Data Structures** | Classic algorithm concepts, implementation, and complexity analysis, with visualizations and real-life analogies | [Go to Table of Contents](./English/Algorithms%20and%20Data%20Structures/Guide.md) |
 | ⚙️ **Operating Systems and Hardware** | Computer organization, operating system principles, ARM architecture, and low-level operating mechanism analysis | [Go to Table of Contents](./English/Operating%20Systems%20and%20Hardware/Guide.md) |
 | 🌐 **Computer Networks** | TCP/IP protocols, HTTP, routing mechanisms, network programming, and security fundamentals | [Go to Table of Contents](./English/Computer%20Networks/Guide.md) |
