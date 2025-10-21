@@ -11,3 +11,4 @@
 | Module | Introduction | Entry Point|
 |------|-----------|------|
 |**"Hardware 1: Logic Gates"**|Understand why computers work|[Button](./Hardware：%20The%20Heart%20of%20a%20Computer/Hardware/Hardware%201：Logic%20Gates.md)|
+|**《Hardware Language: Verilog (1)**|Get a basic understanding of the programming language for circuits built from logic gates|[Button](./Hardware：%20The%20Heart%20of%20a%20Computer/Hardware%20programming%20language/Hardware%20language：Verilog%20(1).md)|
